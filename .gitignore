@@ -1,0 +1,15 @@
+# Node / Next.js
+node_modules/
+.next/
+web/.next/
+
+# Environment variables
+.env
+
+# Logs
+npm-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
